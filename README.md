@@ -55,6 +55,4 @@ Security: Access to the real-time data stream is protected by a unique JWT Token
 ![Search image](images/search.png)
 ![List of students image](images/list.png)
 
-תודה רבה !!!
-תמר.
 
